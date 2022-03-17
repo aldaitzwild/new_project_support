@@ -1,0 +1,16 @@
+span {
+    background-color: green;
+    border: solid black 1px;
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+}
